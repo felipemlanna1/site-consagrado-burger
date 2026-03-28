@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer base {
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { font-family: 'DM Sans', sans-serif; background: #1a0f0a; color: #f0e6df; }
+}
